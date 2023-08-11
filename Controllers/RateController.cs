@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.FileProviders;
 using System.Net.Http.Headers;
 using System.Security.Cryptography.Xml;
-using MessageBusFromKafka;
+using MessageBusLib;
 using Microsoft.AspNetCore.SignalR;
 using System.Timers;
 using System;
@@ -27,11 +27,11 @@ namespace My_First_Project.Controllers
             usdRub,
             eurRub
         };
-        public static string Message;
+        public static string? Message;
         public RateController() { }
 
         [HttpGet("get/{rate}")] ///{rate}
-        public async Task<IActionResult> GetRate(string rate)
+        public IActionResult GetRate(string rate)
         {
             Message = null;
             using (var msgBus = new MessageBus())
@@ -57,6 +57,7 @@ namespace My_First_Project.Controllers
             }
             return Ok(Message);
         }
+
         public static void GetMessageApi(string msg)
         {
             Message = msg;
