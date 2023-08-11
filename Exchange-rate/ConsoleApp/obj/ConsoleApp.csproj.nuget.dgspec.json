@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alfa\\Desktop\\First project\\Exchange-rate\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alfa\\Desktop\\First project\\Exchange-rate\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alfa\\Desktop\\First project\\Exchange-rate\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\Alfa\\Desktop\\First project\\Exchange-rate\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Alfa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alfa\\Desktop\\First project\\Exchange-rate\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "B:\\MVS\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Alfa\\Desktop\\First project\\Exchange-rate\\MessageBusLib\\MessageBusLib.csproj": {
-                "projectPath": "C:\\Users\\Alfa\\Desktop\\First project\\Exchange-rate\\MessageBusLib\\MessageBusLib.csproj"
+              "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\MessageBus\\MessageBusLib.csproj": {
+                "projectPath": "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\MessageBus\\MessageBusLib.csproj"
               }
             }
           }
@@ -63,71 +63,6 @@
             "StackExchange.Redis": {
               "target": "Package",
               "version": "[2.6.122, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Alfa\\Desktop\\First project\\Exchange-rate\\MessageBusLib\\MessageBusLib.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Alfa\\Desktop\\First project\\Exchange-rate\\MessageBusLib\\MessageBusLib.csproj",
-        "projectName": "MessageBusLib",
-        "projectPath": "C:\\Users\\Alfa\\Desktop\\First project\\Exchange-rate\\MessageBusLib\\MessageBusLib.csproj",
-        "packagesPath": "C:\\Users\\Alfa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alfa\\Desktop\\First project\\Exchange-rate\\MessageBusLib\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "B:\\MVS\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Alfa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "Confluent.Kafka": {
-              "target": "Package",
-              "version": "[2.2.0, )"
             }
           },
           "imports": [

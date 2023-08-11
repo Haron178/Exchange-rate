@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alfa\\Desktop\\First project\\Exchange-rate\\MessageBusLib\\MessageBusLib.csproj": {}
+    "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\MessageBusLib\\MessageBusLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alfa\\Desktop\\First project\\Exchange-rate\\MessageBusLib\\MessageBusLib.csproj": {
+    "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\MessageBusLib\\MessageBusLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alfa\\Desktop\\First project\\Exchange-rate\\MessageBusLib\\MessageBusLib.csproj",
+        "projectUniqueName": "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\MessageBusLib\\MessageBusLib.csproj",
         "projectName": "MessageBusLib",
-        "projectPath": "C:\\Users\\Alfa\\Desktop\\First project\\Exchange-rate\\MessageBusLib\\MessageBusLib.csproj",
+        "projectPath": "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\MessageBusLib\\MessageBusLib.csproj",
         "packagesPath": "C:\\Users\\Alfa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alfa\\Desktop\\First project\\Exchange-rate\\MessageBusLib\\obj\\",
+        "outputPath": "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\MessageBusLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "B:\\MVS\\NuGetPackages"

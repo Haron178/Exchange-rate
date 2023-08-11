@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nd0VzzhthXZjJpZd209L7YMc65d4oycoLPYovO4G+tKA1KC18+f7MtJfcFX6RNx+j7JxJMosFvXhLLMqij6M7A==",
+  "dgSpecHash": "6R4+28ghksG4BsDiL3/Rc5SMlBAjPuV9uEBihMAIy/o1d8LjwcRlVy+65m5b6cKghsT6gGxnGCp+eW+YMK5WeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alfa\\Desktop\\First project\\Exchange-rate\\MessageBusLib\\MessageBusLib.csproj",
+  "projectFilePath": "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\MessageBusLib\\MessageBusLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alfa\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",
     "C:\\Users\\Alfa\\.nuget\\packages\\librdkafka.redist\\2.2.0\\librdkafka.redist.2.2.0.nupkg.sha512",
