@@ -5,9 +5,9 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web", "Web.csproj", "{89533B2D-4B14-467E-984C-F6572D720604}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageBusLib", "..\MessageBus\MessageBusLib.csproj", "{DABB44D6-704F-46AA-A0AC-FD079A80F243}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageBusLib", "..\MessageBusLib\MessageBusLib.csproj", "{DABB44D6-704F-46AA-A0AC-FD079A80F243}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "..\ConsoleApp2\ConsoleApp.csproj", "{A51C9EFB-39D2-4BE1-824A-C34A0AB197E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "..\ConsoleApp\ConsoleApp.csproj", "{A51C9EFB-39D2-4BE1-824A-C34A0AB197E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

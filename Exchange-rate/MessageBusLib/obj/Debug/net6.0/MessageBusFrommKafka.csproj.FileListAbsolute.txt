@@ -1,0 +1,12 @@
+C:\Users\Alfa\Desktop\First project\MessageBus\bin\Debug\net6.0\MessageBusFrommKafka.deps.json
+C:\Users\Alfa\Desktop\First project\MessageBus\bin\Debug\net6.0\MessageBusFrommKafka.dll
+C:\Users\Alfa\Desktop\First project\MessageBus\bin\Debug\net6.0\MessageBusFrommKafka.pdb
+C:\Users\Alfa\Desktop\First project\MessageBus\obj\Debug\net6.0\MessageBusFrommKafka.csproj.AssemblyReference.cache
+C:\Users\Alfa\Desktop\First project\MessageBus\obj\Debug\net6.0\MessageBusFrommKafka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa\Desktop\First project\MessageBus\obj\Debug\net6.0\MessageBusFrommKafka.AssemblyInfoInputs.cache
+C:\Users\Alfa\Desktop\First project\MessageBus\obj\Debug\net6.0\MessageBusFrommKafka.AssemblyInfo.cs
+C:\Users\Alfa\Desktop\First project\MessageBus\obj\Debug\net6.0\MessageBusFrommKafka.csproj.CoreCompileInputs.cache
+C:\Users\Alfa\Desktop\First project\MessageBus\obj\Debug\net6.0\MessageBusFrommKafka.dll
+C:\Users\Alfa\Desktop\First project\MessageBus\obj\Debug\net6.0\refint\MessageBusFrommKafka.dll
+C:\Users\Alfa\Desktop\First project\MessageBus\obj\Debug\net6.0\MessageBusFrommKafka.pdb
+C:\Users\Alfa\Desktop\First project\MessageBus\obj\Debug\net6.0\ref\MessageBusFrommKafka.dll
