@@ -318,6 +318,19 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "MessageBusLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Confluent.Kafka": "2.2.0"
+        },
+        "compile": {
+          "bin/placeholder/MessageBusLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MessageBusLib.dll": {}
+        }
       }
     }
   },
@@ -771,13 +784,18 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "MessageBusLib/1.0.0": {
+      "type": "project",
+      "path": "../MessageBusLib/MessageBusLib.csproj",
+      "msbuildProject": "../MessageBusLib/MessageBusLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\MessageBus\\MessageBusLib.csproj",
       "Confluent.Kafka >= 2.2.0",
       "HtmlAgilityPack >= 1.11.51",
+      "MessageBusLib >= 1.0.0",
       "Microsoft.Extensions.Caching.StackExchangeRedis >= 7.0.9",
       "StackExchange.Redis >= 2.6.122"
     ]
@@ -814,8 +832,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\MessageBus\\MessageBusLib.csproj": {
-              "projectPath": "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\MessageBus\\MessageBusLib.csproj"
+            "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\MessageBusLib\\MessageBusLib.csproj": {
+              "projectPath": "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\MessageBusLib\\MessageBusLib.csproj"
             }
           }
         }
@@ -866,16 +884,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Не удалось найти проект \"C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\MessageBus\\MessageBusLib.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
-      "libraryId": "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\MessageBus\\MessageBusLib.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

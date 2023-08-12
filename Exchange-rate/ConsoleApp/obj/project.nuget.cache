@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "m8lvl+rVurtlXAEW0IEiGN6vCml53VNrNuD5dwbkh+Mmz8s77w2tgifyGyK0J8aXjApyBPIFWL8XWnWcvLK8Mw==",
-  "success": false,
+  "dgSpecHash": "qZeHjqFhDdrJMv25ylBYz/5ebX88VmYPTLJPfFkWWGfpfJdUwNU+1g2ibLQB711Qe4ELzQ0Pp1bB+lxF5YcJbQ==",
+  "success": true,
   "projectFilePath": "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\ConsoleApp\\ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alfa\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",
@@ -19,15 +19,5 @@
     "C:\\Users\\Alfa\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
     "C:\\Users\\Alfa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Не удалось найти проект \"C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\MessageBus\\MessageBusLib.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
-      "libraryId": "C:\\Users\\Alfa\\Desktop\\GIT HUB\\First project for git\\Exchange-rate\\MessageBus\\MessageBusLib.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }
